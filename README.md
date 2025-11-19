@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 ## 🎬 Movie Discovery App
 
 A React-based movie discovery app integrated with **TMDB API**, featuring real-time search, debounced inputs, and trending search analytics powered by **Appwrite**.
 
-## 🚀 Features
+## Features
 
 * Live search using TMDB API
 * Debounced input (optimized API usage)
@@ -11,14 +11,14 @@ A React-based movie discovery app integrated with **TMDB API**, featuring real-t
 * User trending search analytics stored in Appwrite
 * Responsive UI
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * React
 * TMDB API
 * Appwrite
 * react-use
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone <repo-url>
