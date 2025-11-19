@@ -1,6 +1,6 @@
----
-
 ## 🎬 Movie Discovery App — README Template
+
+---
 
 # Movie Discovery App
 
@@ -28,14 +28,3 @@ git clone <repo-url>
 cd movie-app
 npm install
 npm start
-```
-
-Create `.env` file:
-
-```
-VITE_TMDB_KEY=your_api_key
-APPWRITE_ENDPOINT=xxx
-APPWRITE_PROJECT_ID=xxx
-```
-
----
