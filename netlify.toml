@@ -1,0 +1,9 @@
+[build]
+  # Existing build settings (optional, if you have any)
+  # command = "npm run build"
+  # publish = "dist"
+
+[build.environment]
+  # List all the VITE_ variables that are detected and need to be omitted.
+  # This tells Netlify's scanner to ignore these specific keys.
+  SECRETS_SCAN_OMIT_KEYS = "VITE_APPWRITE_ENDPOINT,VITE_APPWRITE_COLLECTION_ID,VITE_APPWRITE_DATABASE_ID,VITE_APPWRITE_PROJECT_ID,VITE_TMDB_API_KEY"
