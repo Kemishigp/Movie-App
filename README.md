@@ -1,8 +1,4 @@
-## 🎬 Movie Discovery App — README Template
-
----
-
-# Movie Discovery App
+## 🎬 Movie Discovery App
 
 A React-based movie discovery app integrated with **TMDB API**, featuring real-time search, debounced inputs, and trending search analytics powered by **Appwrite**.
 
